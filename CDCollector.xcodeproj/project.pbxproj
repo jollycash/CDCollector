@@ -13,6 +13,8 @@
 		EF89D01222A9588800C3F159 /* CDCollector.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = EF89D01022A9588800C3F159 /* CDCollector.xcdatamodeld */; };
 		EF89D01422A9588900C3F159 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF89D01322A9588900C3F159 /* Assets.xcassets */; };
 		EF89D01722A9588900C3F159 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF89D01522A9588900C3F159 /* LaunchScreen.storyboard */; };
+		EF89D01F22A95D8F00C3F159 /* vcDfFnHq_400x400.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EF89D01E22A95D8F00C3F159 /* vcDfFnHq_400x400.jpg */; };
+		EF89D02122A95E9D00C3F159 /* CDViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF89D02022A95E9D00C3F159 /* CDViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		EF89D01322A9588900C3F159 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EF89D01622A9588900C3F159 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EF89D01822A9588900C3F159 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EF89D01E22A95D8F00C3F159 /* vcDfFnHq_400x400.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = vcDfFnHq_400x400.jpg; sourceTree = "<group>"; };
+		EF89D02022A95E9D00C3F159 /* CDViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CDViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,10 +63,12 @@
 				EF89D00922A9588800C3F159 /* AppDelegate.swift */,
 				EF89D00B22A9588800C3F159 /* ViewController.swift */,
 				EF89D00D22A9588800C3F159 /* Main.storyboard */,
+				EF89D02022A95E9D00C3F159 /* CDViewController.swift */,
 				EF89D01322A9588900C3F159 /* Assets.xcassets */,
 				EF89D01522A9588900C3F159 /* LaunchScreen.storyboard */,
 				EF89D01822A9588900C3F159 /* Info.plist */,
 				EF89D01022A9588800C3F159 /* CDCollector.xcdatamodeld */,
+				EF89D01E22A95D8F00C3F159 /* vcDfFnHq_400x400.jpg */,
 			);
 			path = CDCollector;
 			sourceTree = "<group>";
@@ -127,6 +133,7 @@
 			files = (
 				EF89D01722A9588900C3F159 /* LaunchScreen.storyboard in Resources */,
 				EF89D01422A9588900C3F159 /* Assets.xcassets in Resources */,
+				EF89D01F22A95D8F00C3F159 /* vcDfFnHq_400x400.jpg in Resources */,
 				EF89D00F22A9588800C3F159 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -141,6 +148,7 @@
 				EF89D00C22A9588800C3F159 /* ViewController.swift in Sources */,
 				EF89D01222A9588800C3F159 /* CDCollector.xcdatamodeld in Sources */,
 				EF89D00A22A9588800C3F159 /* AppDelegate.swift in Sources */,
+				EF89D02122A95E9D00C3F159 /* CDViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
